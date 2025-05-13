@@ -1,38 +1,58 @@
-<h1 align="center">🚀 Webhook Blaster CLI</h1>
+<h1 align="center">💣 Webhook Blaster</h1>
 <p align="center">
-  <b>The fastest, cleanest, multi-webhook Discord message sender on GitHub.</b><br>
-  <i>Designed for power users, red teamers, and automation junkies.</i>
+  <b>The Ultimate 1-Click Discord Webhook Spammer</b><br>
+  <i>No setup. No terminal. Just click and blast.</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/speed-blazing--fast-ff0000?style=flat-square">
+  <img src="https://img.shields.io/badge/build-exe%20ready-brightgreen?style=flat-square">
   <img src="https://img.shields.io/badge/multi--webhook-supported-blueviolet?style=flat-square">
-  <img src="https://img.shields.io/badge/proxy-enabled-yellow?style=flat-square">
+  <img src="https://img.shields.io/badge/proxies-optional-yellow?style=flat-square">
+  <img src="https://img.shields.io/badge/gui-none--needed-red?style=flat-square">
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square">
 </p>
 
 ---
 
-### ⚡ What is it?
+### 🚀 What Is This?
 
-**Webhook Blaster** is a high-performance command-line tool built to **send messages to multiple Discord webhooks** at once — with threading, proxy rotation, and speed that leaves others in the dust.
+**Webhook Blaster** is a fully automated, pre-configured Discord webhook spammer that runs with **just a double-click**. No command line, no Python setup, no nonsense.
 
-> 🛠️ Built for automation, stress testing, or red team simulations — just don’t be a jerk.  
-> 🧠 **Educational use only.**
-
----
-
-### 🧰 Features
-
-✅ Multi-webhook blasting  
-🧅 Full proxy support (HTTP, SOCKS4/5)  
-⚙️ Threaded for maximum speed  
-📦 Minimal dependencies  
-🖥️ Easy plug-and-play CLI interface
+> Built for **speed, simplicity, and automation**. Use responsibly.
 
 ---
 
-### 📸 Terminal Preview
+### 💡 Features
+
+✅ **Multi-Webhook Spamming** – blast hundreds of links at once  
+🧅 **Proxy Rotation Support** – avoid rate limits like a ghost  
+⚙️ **Multi-threaded** – max out performance with async + threads  
+🧪 **Auto-Retry on Fail** – missed a message? It tries again  
+📁 **Simple Config** – no CLI flags, just edit a few text files  
+💾 **Packaged as `.exe`** – no Python or terminal needed  
+😎 **Silent Mode Option** – run with no console popup (stealthy)
+
+---
+
+### 📦 How to Use
+
+1. 📥 Download the latest [Release](#) `.zip`  
+2. 📂 Extract the folder anywhere  
+3. 📝 Edit:
+   - `webhooks.txt` – one webhook per line
+   - `message.txt` – your message
+   - `proxies.txt` *(optional)* – IP:PORT, one per line
+   - `config.json` – thread count, delay, etc.
+
+4. 🖱️ **Double-click** `blaster.exe`  
+5. 💥 Watch it go brrrrr...
+
+---
+
+### 🛠️ Packaging into an `.exe` (already done in releases, but here’s how)
+
+If you want to build the `.exe` yourself:
 
 ```bash
-python blast.py -w webhooks.txt -m "👾 Webhook Blaster was here." -p proxies.txt -t 100
+pip install pyinstaller
+pyinstaller --onefile --noconsole blaster.py
