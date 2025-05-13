@@ -1,0 +1,8 @@
+{
+  "threads": 100,
+  "delay": 0.5,
+  "use_proxies": true,
+  "proxy_type": "http", 
+  "randomize_messages": false,
+  "logging": true
+}
