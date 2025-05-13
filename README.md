@@ -44,15 +44,8 @@
    - `proxies.txt` *(optional)* – IP:PORT, one per line
    - `config.json` – thread count, delay, etc.
 
-4. 🖱️ **Double-click** `blaster.exe`  
+4. 🖱️ **Double-click** `Swatted Spammer.exe`  
 5. 💥 Watch it go brrrrr...
 
 ---
 
-### 🛠️ Packaging into an `.exe` (already done in releases, but here’s how)
-
-If you want to build the `.exe` yourself:
-
-```bash
-pip install pyinstaller
-pyinstaller --onefile --noconsole blaster.py
